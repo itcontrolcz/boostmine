@@ -1,3 +1,4 @@
 # Boostmine
-Coming Soon - Best Redmine Theme with premium design and support
+Boostmine: The Best Redmine Theme with premium design and support
 www.bestredminetheme.com
+Coming Soon
