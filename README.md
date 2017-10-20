@@ -6,4 +6,4 @@ https://bestredminetheme.com
 v 1.0 (2017-10-17):</br>
 First version. </br>
 Compatible with any Redmine 2.5+ version.</br>
-Compatible with RedmineUp's Agile, CRM, Heldpesk, People, Tags plugins.</br>
+Compatible with RedmineUp's Agile, CRM, Heldpesk, People, Tags plugin.</br>
