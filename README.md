@@ -4,7 +4,7 @@ https://bestredminetheme.com Compatible with many plugins.
 </br></br>
 <h2>Changelog</h2>
 
-v 1.1 (2017-11-17):</br>
+v 1.1 (2017-11-21):</br>
 New > Compatibility assured with the rest of RedmineUP’s plugins:</br>
 Redmine Invoices plugin</br>
 Redmine Finance plugin</br>
