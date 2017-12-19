@@ -4,6 +4,23 @@ https://bestredminetheme.com Compatible with many plugins.
 </br></br>
 <h2>Changelog</h2>
 
+v 1.2 (2017-12-19):</br>
+Feature > Space between top menu options gets narrower when many options are present.</br>
+Feature > When a project or subproject title is too long, it will be shown with ellipsis.</br>
+New > Helpdesk plugin: new plugin’s Reply button on issue edit page.</br>
+Bug > Login form was shown on the left side of the login page (some Redmine versions).</br>
+Bug > Default’s theme orange background was shown in the login form (some Redmine versions).</br>
+Bug > White boxes when hovering login form (some Redmine versions).</br>
+Bug > Header was shown over logo or menu in some pages (some Redmine versions).</br>
+Bug > Header hidden in some pages (some Redmine versions).</br>
+Bug > Standard icons where shown instead of Boostmine’s icons (some Redmine versions).</br>
+Bug > Favorite projects plugin: search field in Favorite projects query overlaps buttons.</br>
+Bug > Helpdesk plugin: several radio buttons in settings overlapped other fields.</br>
+Bug > Agile plugin: new comment overflows in issue card.</br>
+Bug > Forums: sticky message shown over top menu.</br>
+Tweak > Products plugin: “Add product” button overlay in new issue form.</br>
+Tweak > Vertical alignment of description’s “Edit” button.</br></br>
+
 v 1.1 (2017-11-21):</br>
 New > Compatibility assured with the rest of RedmineUP’s plugins:</br>
 Redmine Invoices plugin</br>
