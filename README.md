@@ -1,4 +1,4 @@
-# Boostmine
+# Boostmine by Best Redmine Theme
 Boostmine: The Best Redmine Theme with premium design and support
 https://bestredminetheme.com Compatible with many plugins.
 </br></br>
