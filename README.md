@@ -4,6 +4,24 @@ https://bestredminetheme.com Compatible with many plugins.
 </br></br>
 <h2>Changelog</h2>
 
+v 1.3 (2018-03-05):</br>
+Feature > Fold/unfold subprojects tree in Projects page.</br>
+New > Compatibility with LDAP Sync plugin ensured.</br>
+New > Redmine 4.0 compatibility.</br>
+New > Issue attachment icon added on issue page.</br>
+New > CRM plugin: Contact field width increased.</br>
+New > Create main menu tabs buttons for Redmine old versions.</br>
+Tweak > Avoid overlapping of project name with search box and project dropdown.</br>
+Tweak > Improved related issue assignment styling.</br>
+Tweak > Issue buttons on issue page could be shown over sidebar and issue number when desktop screen was small. Same with buttons in Wiki pages.</br>
+Bug > Helpdesk plugin: Helpdesk icon in Admin menu got lost in last update.</br>
+Bug > Overlapping text in administration buttons (for Redmine 3.2. and older versions)</br>
+Bug > New user screen was not aligned properly in Safari on Mac.</br>
+Bug > Several images missing.</br>
+Bug > Checkboxes error when one field after the other.</br>
+Bug > Checkboxes where not shown in CSV export window.</br>
+Bug > Agile plugin: checkboxes of Checklists plugin where not shown in Agile cards.</br>
+
 v 1.2 (2017-12-19):</br>
 Feature > Space between top menu options gets narrower when many options are present.</br>
 Feature > When a project or subproject title is too long, it will be shown with ellipsis.</br>
