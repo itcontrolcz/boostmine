@@ -66,7 +66,7 @@ Tweak > Hide top menu links on login and registration pages (are not necessary i
 Tweak > changed default favicon. From Boostmine’s B mini logo to BestRedmineTheme’s red “R” for Redmine.</br>
 
 
-v 1.0 (2017-10-17):</br>
+v 1.0 (2017-10-17): </br>
 First version. </br>
 Compatible with any Redmine 2.5+ version.</br>
 Compatible with RedmineUp's Agile, CRM, Heldpesk, People, Tags plugin.</br>
