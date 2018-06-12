@@ -4,6 +4,24 @@ https://bestredminetheme.com Compatible with many plugins.
 </br></br>
 <h2>Changelog</h2>
 
+v 1.4 (2018-06-11):</br>
+Feature > Default tracker color.</br>
+New > DMSF plugin compatibility.</br>
+New > Solution for emails that don’t fit in sidebar.</br>
+New > Input text color for registration form can now be defined in customize.css file, as login input text.</br>
+Tweak > Contacts plugin: relocate and style Add contact icon.</br>
+Tweak > Bullets alignment improved.</br>
+Tweak > Helpdesk plugin: improvement of history items alignment in issue page.</br>
+Tweak > New Cancel button in create News page.</br>
+Bug > Download icon restored.</br>
+Bug > Status check in filter appeared always as not marked.</br>
+Bug > Table borders not being shown in wiki or text fields.</br>
+Bug > solved bug when checking issues in issue list.</br>
+Bug > Agile plugin: solved bug when sticky header + agile board in full screen.</br>
+Bug > Contacts and Invoices plugins: search field overlapping solved.</br>
+Bug > CMS plugin: menu icons bug solved.</br>
+Bug > Products plugin: Add Products button split in mobile screens</br>
+
 v 1.3 (2018-03-05):</br>
 Feature > Fold/unfold subprojects tree in Projects page.</br>
 New > Compatibility with LDAP Sync plugin ensured.</br>
