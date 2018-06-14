@@ -2,7 +2,7 @@
 Boostmine: The Best Redmine Theme with premium design and support
 https://bestredminetheme.com Compatible with many plugins.
 </br> </br>
-<h2>Changelog</h2>
+<h2>Changelog:</h2>
 
 v 1.4 (2018-06-11):</br>
 Feature > Default tracker color.</br>
