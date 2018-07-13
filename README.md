@@ -4,7 +4,7 @@ https://bestredminetheme.com Compatible with many plugins.
 </br> </br>
 <h2>Changelog:</h2>
 
-v 1.4 (2018-06-11):</br>
+v 1.4.1 (2018-06-21):</br>
 Feature > Default tracker color.</br>
 New > DMSF plugin compatibility.</br>
 New > Solution for emails that don’t fit in sidebar.</br>
